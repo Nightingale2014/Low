@@ -6,7 +6,7 @@
 공연, 전시, 콘서트, 그리고 당신의 티켓까지.  
 **인터파크 스타일의 공연 예매 포털**을 재현한 미니 프로젝트입니다.
 
-![InterTicket Screenshot](./public/images/interpark.png) <!-- 대표 이미지 경로 조정 가능 -->
+(./public/images/interpark.png) <!-- 대표 이미지 경로 조정 가능 -->
 
 ---
 
